@@ -1,0 +1,4 @@
+-keep class com.memlegends.game.data.remote.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn okhttp3.**

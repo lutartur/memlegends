@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MemLegends</string>
+    <string name="deal_cards">Deal Cards</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="your_hand">Your Hand</string>
+    <string name="score">Score: %1$d</string>
+</resources>
