@@ -32,7 +32,7 @@ class GameViewModel @Inject constructor(
     }
 
     fun dealHand() {
-        val hand = repository.dealHand(count = 5)
+        val hand = repository.dealHand(count = 6)
         _uiState.update { state ->
             state.copy(
                 hand = hand,
